@@ -28,7 +28,7 @@ export default function Bar() {
           <Navbar.Collapse>
             
             <Nav className="ms-auto justify-content-center p-1 navbar">
-              
+              {/* change */}
             <div className="d-flex">
                 <input
                   placeholder="Search for your favourite"
